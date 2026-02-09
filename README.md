@@ -19,5 +19,5 @@ Hey there! I’m Anaith Shaju — a Full Stack Developer who loves turning ideas
 <br></br>
 
 
-[linkedin]:www.linkedin.com/in/anaith-shaju-026b13328
+[linkedin]:https://www.linkedin.com/in/anaith-shaju-026b13328/
 [gmail]:mailto:anaithshajus7@gmail.com
